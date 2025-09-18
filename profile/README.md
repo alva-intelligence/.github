@@ -1,4 +1,5 @@
 ![ALVA Intelligence Banner](./banner.png)
+
                           🕵️ Special Agents of ALVA Digital under FCN Network ⚡
 
 
@@ -13,9 +14,6 @@ to craft technologies that **defend, empower, and inspire**.
 We are not just developers.  
 We are **Superheroes in Disguise**—  
 operating at the intersection of **AI, engineering, and human creativity**.  
-
-Each repository here is a classified operation:  
-🔒 some open, 🛡️ some hidden, ⚡ all extraordinary.  
 
 ## 🎯 Our Oath  
 > “We do not code for fame.  
